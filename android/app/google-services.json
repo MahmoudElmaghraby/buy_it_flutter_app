@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390262095349",
+    "project_id": "buy-it-79421",
+    "storage_bucket": "buy-it-79421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390262095349:android:18559566c6d893c10ef4bc",
+        "android_client_info": {
+          "package_name": "com.elmaghrabyapp.but_it_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390262095349-cg065r57bbfoim3k8im4t2j5gm1ql7d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6msosP__kD6WskxFDfpbozwlofAPHHjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390262095349-cg065r57bbfoim3k8im4t2j5gm1ql7d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
